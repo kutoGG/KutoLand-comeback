@@ -94,7 +94,7 @@ bossBarColor: RED
 # Style: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/boss/BarStyle.html
 bossBarStyle: SOLID
 # Message. Placeholders: %floor% == current floor & %totalFloors% == total floors.
-bossBarMessage: '&eFloor %floor% of %totalFloors%'
+bossBarMessage: '&ePiso %floor% de %totalFloors%'
 
 # Arrow Particles: (Unsupported in 1.8)
 arrow_enabled: true
