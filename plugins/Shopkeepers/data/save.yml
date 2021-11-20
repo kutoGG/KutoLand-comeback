@@ -1,0 +1,273 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyways, ensure that the server is not running currently and that you have prepared a backup of this file.
+data-version: 2|2730
+'2':
+  uniqueId: 88459434-a6c7-4965-b711-75897858227d
+  name: ''
+  world: world
+  x: -14
+  y: 44
+  z: -3
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: BUTCHER
+    villagerType: SAVANNA
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: PRISMARINE_BRICKS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: STONE
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: BEDROCK
+        amount: 64
+'3':
+  uniqueId: 8b17ce65-72d2-4e48-a57f-15d63736919a
+  name: Piedras Proteccion
+  world: world
+  x: -14
+  y: 44
+  z: 0
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: ARMORER
+    villagerType: JUNGLE
+    villagerLevel: 5
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: DIAMOND_BLOCK
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: DIAMOND_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"Proteccion
+            "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"x64"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":""}],"text":""}'
+          - '{"extra":[{"bold":true,"text":"Aviso: "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"son
+            64 bloques a cada lado :3"}],"text":""}'
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: DIAMOND_BLOCK
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: EMERALD_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"Proteccion
+            "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"x32"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":""}],"text":""}'
+          - '{"extra":[{"bold":true,"text":"Aviso: "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"son
+            32 bloques a cada lado :3"}],"text":""}'
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: DIAMOND_BLOCK
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: GOLD_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"Proteccion
+            "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"x16"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":""}],"text":""}'
+          - '{"extra":[{"bold":true,"text":"Aviso: "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"son
+            16 bloques a cada lado :3"}],"text":""}'
+'4':
+  uniqueId: 99388371-e960-4b23-8378-1efbaae366c6
+  name: Materiales Construccion
+  world: world
+  x: -14
+  y: 44
+  z: 3
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: MASON
+    villagerType: SWAMP
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: IRON_INGOT
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: QUARTZ_BLOCK
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: IRON_INGOT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: BRICKS
+'5':
+  uniqueId: 7915b52d-4332-4432-b146-0d07412f3765
+  name: ''
+  world: world
+  x: -3
+  y: 44
+  z: 14
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SAVANNA
+    villagerLevel: 1
+  recipes: {}
+'6':
+  uniqueId: aec95b86-6782-4172-b604-fd493f2428ab
+  name: ''
+  world: world
+  x: 0
+  y: 44
+  z: 14
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes: {}
+'7':
+  uniqueId: 553aa793-fe6b-4da8-949a-b2b9cd66b82a
+  name: ''
+  world: world
+  x: 3
+  y: 44
+  z: 14
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: ARMORER
+    villagerType: SAVANNA
+    villagerLevel: 1
+  recipes: {}
+'8':
+  uniqueId: c2da0aaf-2246-4939-bc2f-851fb062eb7a
+  name: ''
+  world: world
+  x: 14
+  y: 44
+  z: 0
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes: {}
+'9':
+  uniqueId: ba84fd64-de25-4aca-a01b-f6d7b1f4703a
+  name: ''
+  world: world
+  x: 14
+  y: 44
+  z: 3
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes: {}
+'10':
+  uniqueId: b789d1e3-7dfa-425c-9bdf-8e453ebbe022
+  name: ''
+  world: world
+  x: 14
+  y: 44
+  z: -3
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes: {}
+'11':
+  uniqueId: 26630013-b314-41da-9f78-d4f57cdadc58
+  name: ''
+  world: world
+  x: 3
+  y: 44
+  z: -14
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: TAIGA
+    villagerLevel: 1
+  recipes: {}
+'12':
+  uniqueId: cfbd196f-7ea0-4d7a-a855-3af9d6676548
+  name: ''
+  world: world
+  x: 0
+  y: 44
+  z: -14
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SAVANNA
+    villagerLevel: 1
+  recipes: {}
+'13':
+  uniqueId: 74b4eceb-da26-4d57-bd53-a62a46d9d08e
+  name: ''
+  world: world
+  x: -3
+  y: 44
+  z: -14
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: DESERT
+    villagerLevel: 1
+  recipes: {}

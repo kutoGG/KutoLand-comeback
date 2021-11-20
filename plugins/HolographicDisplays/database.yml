@@ -1,0 +1,32 @@
+Bloques:
+  location: world, -3.536, 46.500, 0.467
+  lines:
+  - '* ZONA BLOQUES *'
+  - '- Protección -'
+  - '- Construcción -'
+elevator:
+  location: world, 0.501, 46.500, 0.527
+  lines:
+  - '&a⇡'
+  - '&asaltar'
+elevator2:
+  location: world, 0.552, 62.500, 0.511
+  lines:
+  - '&a⇡'
+  - '&asaltar'
+  - '&7-----'
+  - '&fagacharse'
+  - ⇣
+elevator3:
+  location: world, 0.491, 94.500, 0.488
+  lines:
+  - '&a⇡'
+  - '&asaltar'
+  - '&7-----'
+  - '&fagacharse'
+  - ⇣
+elevator4:
+  location: world, 0.521, 106.000, 0.486
+  lines:
+  - '&fagacharse'
+  - ⇣
