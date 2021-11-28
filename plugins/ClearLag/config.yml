@@ -362,7 +362,7 @@ auto-removal:
   autoremoval-interval: 420
   world-filter:
   # - this_world <-This world will be ignored during removal!
-  boat: false
+  boat: true
   falling-block: true
   experience-orb: true
   painting: false
