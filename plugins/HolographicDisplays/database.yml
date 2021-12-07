@@ -1,9 +1,3 @@
-Bloques:
-  location: world, -3.536, 46.500, 0.467
-  lines:
-  - '* ZONA BLOQUES *'
-  - '- Protección -'
-  - '- Construcción -'
 elevator:
   location: world, 0.501, 46.500, 0.527
   lines:
@@ -30,3 +24,80 @@ elevator4:
   lines:
   - '&fagacharse'
   - ⇣
+comida:
+  location: world, -6.550, 63.000, 0.400
+  lines:
+  - ICON:PORKCHOP
+  - '&4&l*pasa por su chuletón*'
+bote:
+  location: world, 0.546, 66.000, 114.314
+  lines:
+  - ICON:OAK_BOAT
+  - '&1&l*Navega*'
+  - '&9en aguas profundas'
+waterdrop:
+  location: world, 8.484, 107.000, 0.478
+  lines:
+  - 'ICON: WATER_BUCKET'
+  - '&9&lWaterDrop'
+waterdrop2:
+  location: world, 84.883, 107.000, 0.470
+  lines:
+  - 'ICON: WATER_BUCKET'
+  - '&9&lWaterDrop'
+bote2:
+  location: world, 0.586, 66.200, -128.434
+  lines:
+  - ICON:OAK_BOAT
+  - '&1&l*Navega*'
+  - '&9en aguas profundas'
+bote3:
+  location: world, -108.653, 66.200, 0.359
+  lines:
+  - ICON:OAK_BOAT
+  - '&1&l*Navega*'
+  - '&9en aguas profundas'
+comida2:
+  location: world, -76.421, 66.000, 0.587
+  lines:
+  - ICON:PORKCHOP
+  - '&4&l*pasa por su chuletón*'
+tprand:
+  location: world, 0.647, 63.200, -6.230
+  lines:
+  - Al final del puente
+  - Un botón encontrarás
+  - al presionarlo
+  - a la chingada te irás
+thComida:
+  location: world, 0.700, 46.000, -4.300
+  lines:
+  - '* ZONA RECURSOS *'
+  - '- Comida -'
+  - '- Animalitos -'
+thBloques:
+  location: world, -4.540, 46.000, 0.556
+  lines:
+  - '* ZONA BLOQUES *'
+  - '- Protección -'
+  - '- Recursos -'
+thMineral:
+  location: world, 5.655, 46.000, 0.508
+  lines:
+  - null
+thTools:
+  location: world, 0.549, 46.000, 5.616
+  lines:
+  - null
+bote4:
+  location: world, 78.533, 107.000, 7.453
+  lines:
+  - ICON:OAK_BOAT
+  - '&1&l*Navega*'
+  - '&9en aguas profundas'
+bote5:
+  location: world, 78.512, 107.000, -6.474
+  lines:
+  - ICON:OAK_BOAT
+  - '&1&l*Navega*'
+  - '&9en aguas profundas'

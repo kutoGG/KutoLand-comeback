@@ -17,14 +17,14 @@ enable-teleport-logging: false
 #If you set it to true, you will disable the prefix
 #Make sure to restart the server in order to apply it
 disable-prefix: false
-prefix: "&c[&6TPa&c]"
+prefix: "&c[&6SimpleTpa&c]"
 
 #Messages:
 # TO DISABLE A MESSAGE - SET IT TO - NONE
 # EXAMPLE:
 # Console-Isnt-Player: "none"
-Console-Isnt-Player: "&6Console can't use &cTPa&6!"
-Disabled-World-Message: "&6No puedes usar &cTPa &6en este mundo!"
+Console-Isnt-Player: "&6Console can't use &cSimpleTpa&6!"
+Disabled-World-Message: "&6You can't use &cSimpleTpa &6in this World!"
 Teleport-Message: "&6You will be teleported in &c%time% &6seconds!"
 Teleport-Message-Back-To-Player: "&6You &caccepted &6the teleport request!"
 Player-Is-Null: "&6The player is not &conline&6!"
@@ -75,9 +75,9 @@ Different-Gamemode: "&6You can't use any teleportation commands, because you are
 
 #Accept Button Properties
 Accept-Button: "ACCEPT"
-Accept-Button-Color: "GREEN"
+Accept-Button-Color: "RED"
 Accept-Button-Set-Bold: true
-Accept-Button-Description: "&6Click aqui para &cACEPTAR &6el tp!"
+Accept-Button-Description: "&6Click here to &cACCEPT &6the tp request!"
 
 #Middle Button Properties
 Middle-Button: " | "

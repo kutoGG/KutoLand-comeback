@@ -19,18 +19,56 @@ data-version: 2|2730
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 2730
-        type: PRISMARINE_BRICKS
-        amount: 64
-      item2:
-        ==: org.bukkit.inventory.ItemStack
-        v: 2730
-        type: STONE
-        amount: 64
+        type: DIORITE
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 2730
-        type: BEDROCK
-        amount: 64
+        type: GRANITE
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: DIORITE
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: ANDESITE
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: ANDESITE
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: GRANITE
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: ANDESITE
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: DIORITE
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: GRANITE
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: ANDESITE
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: GRANITE
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: DIORITE
 '3':
   uniqueId: 8b17ce65-72d2-4e48-a57f-15d63736919a
   name: Piedras Proteccion
@@ -55,16 +93,17 @@ data-version: 2|2730
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 2730
-        type: DIAMOND_BLOCK
+        type: DIAMOND_ORE
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"Proteccion
-            "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"x64"}],"text":""}'
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"green","text":"<---"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"
+            Proteccion de 64x64 "},{"bold":false,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"green","text":"--->"}],"text":""}'
           lore:
-          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":""}],"text":""}'
-          - '{"extra":[{"bold":true,"text":"Aviso: "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"son
-            64 bloques a cada lado :3"}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"(⌐■_■)ノ♪
+            Nadie va a tocar mis cosas!"}],"text":""}'
+          PublicBukkitValues:
+            protectionstones:ispsblock: 1b
     '2':
       item1:
         ==: org.bukkit.inventory.ItemStack
@@ -74,16 +113,17 @@ data-version: 2|2730
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 2730
-        type: EMERALD_BLOCK
+        type: GOLD_ORE
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"Proteccion
-            "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"x32"}],"text":""}'
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"green","text":"<---"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"
+            Proteccion de 32x32 "},{"bold":false,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"green","text":"--->"}],"text":""}'
           lore:
-          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":""}],"text":""}'
-          - '{"extra":[{"bold":true,"text":"Aviso: "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"son
-            32 bloques a cada lado :3"}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"(⌐■_■)ノ♪
+            Nadie va a tocar mis cosas!"}],"text":""}'
+          PublicBukkitValues:
+            protectionstones:ispsblock: 1b
     '3':
       item1:
         ==: org.bukkit.inventory.ItemStack
@@ -92,16 +132,17 @@ data-version: 2|2730
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 2730
-        type: GOLD_BLOCK
+        type: EMERALD_ORE
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"Proteccion
-            "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"x16"}],"text":""}'
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"green","text":"<---"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"
+            Proteccion de 16x16 "},{"bold":false,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"green","text":"--->"}],"text":""}'
           lore:
-          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":""}],"text":""}'
-          - '{"extra":[{"bold":true,"text":"Aviso: "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"son
-            16 bloques a cada lado :3"}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"(⌐■_■)ノ♪
+            Nadie va a tocar mis cosas!"}],"text":""}'
+          PublicBukkitValues:
+            protectionstones:ispsblock: 1b
 '4':
   uniqueId: 99388371-e960-4b23-8378-1efbaae366c6
   name: Materiales Construccion
@@ -136,6 +177,44 @@ data-version: 2|2730
         ==: org.bukkit.inventory.ItemStack
         v: 2730
         type: BRICKS
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: COBBLESTONE
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: COBBLED_DEEPSLATE
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: COBBLESTONE
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: STONE
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: DIRT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: GRASS_BLOCK
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: NETHERITE_BLOCK
+        amount: 20
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: BEDROCK
 '5':
   uniqueId: 7915b52d-4332-4432-b146-0d07412f3765
   name: ''
@@ -243,7 +322,7 @@ data-version: 2|2730
   recipes: {}
 '12':
   uniqueId: cfbd196f-7ea0-4d7a-a855-3af9d6676548
-  name: ''
+  name: Animalitos
   world: world
   x: 0
   y: 44
@@ -252,13 +331,69 @@ data-version: 2|2730
   object:
     type: villager
     baby: false
-    profession: NONE
-    villagerType: SAVANNA
-    villagerLevel: 1
-  recipes: {}
+    profession: BUTCHER
+    villagerType: PLAINS
+    villagerLevel: 5
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: WHITE_WOOL
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: MUTTON
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: SHEEP_SPAWN_EGG
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: LEATHER
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: BEEF
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: COW_SPAWN_EGG
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: CARROT
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: PORKCHOP
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: PIG_SPAWN_EGG
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: FEATHER
+        amount: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: CHICKEN
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: CHICKEN_SPAWN_EGG
 '13':
   uniqueId: 74b4eceb-da26-4d57-bd53-a62a46d9d08e
-  name: ''
+  name: Comida
   world: world
   x: -3
   y: 44
@@ -267,7 +402,55 @@ data-version: 2|2730
   object:
     type: villager
     baby: false
-    profession: NONE
+    profession: BUTCHER
     villagerType: DESERT
     villagerLevel: 1
-  recipes: {}
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: PUMPKIN
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: PUMPKIN_PIE
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: COD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: COOKED_COD
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: IRON_NUGGET
+        amount: 7
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: COOKED_RABBIT
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: GOLD_INGOT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: GOLDEN_CARROT
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: DIAMOND_BLOCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: ENCHANTED_GOLDEN_APPLE
