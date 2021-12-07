@@ -1,13 +1,13 @@
 cooldown: '§6Warning: §7Please wait for %time% seconds before placing again!'
 no_such_command: §cNo such command. please type /ps help for more info
-no_access: §cYou are not allowed to do that here.
+no_access: §cNo puedes hacer eso aqui.
 no_room_in_inventory: §cYou don't have enough room in your inventory.
 no_room_dropping_on_floor: §cYou don't have enough room in your inventory. Dropping
   item on floor.
-invalid_block: §cInvalid protection block.
+invalid_block: §cProteccion invalida.
 not_enough_money: §cYou don't have enough money! The price is %price%.
 paid_money: §bYou've paid $%price%.
-invalid_world: §cInvalid world.
+invalid_world: §cMundo invalido.
 must_be_player: §cYou must be a player to execute this command.
 go_back_page: Go back a page.
 go_next_page: Go to next page.
@@ -53,18 +53,18 @@ no_permission_setparent_others: §cYou do not have permission to inherit from re
   you don't own.
 no_permission_merge: §cYou do not have permission to use /ps merge.
 psregion:
-  added_to_region: §b%player%§7 has been added to this region.
-  added_to_region_specific: §b%player%§7 has been added to region %region%.
-  removed_from_region: §b%player%§7 has been removed from region.
-  removed_from_region_specific: §b%player%§7 has been removed from region %region%.
-  not_in_region: §cYou are not in a protection stones region!
+  added_to_region: §b%player%§7 ha sido agregado a la proteccion.
+  added_to_region_specific: §b%player%§7 fue agregado a %region%.
+  removed_from_region: §b%player%§7 fue eliminado de la proteccion.
+  removed_from_region_specific: §b%player%§7 fue eliminado de %region%.
+  not_in_region: §cNo estas en una region de Proteccion!
   player_not_found: §cPlayer not found.
   not_ps_region: §cNot a protection stones region.
   region_does_not_exist: §cRegion does not exist.
   no_regions_owned: §cYou don't own any protected regions in this world!
   no_region_permission: §cYou do not have permission to do this in this region.
-  protected: §bThis area is now protected.
-  no_longer_protected: §eThis area is no longer protected.
+  protected: §bEsta area ahora esta protegida.
+  no_longer_protected: §eEsta area ya no esta protegida.
   cant_protect_that: §cYou can't protect that area.
   reached_region_limit: §cYou can not have any more protected regions (%limit%).
   reached_per_block_region_limit: §cYou can not have any more regions of this type

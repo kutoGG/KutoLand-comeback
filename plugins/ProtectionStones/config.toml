@@ -33,7 +33,8 @@ base_command = "ps"
 aliases = [
     "pstone",
     "protectionstone",
-    "protectionstones"
+    "protectionstones",
+    "ps"
 ]
 
 # Whether or not to drop items on the ground if the inventory is full (ex. during /ps unclaim)
