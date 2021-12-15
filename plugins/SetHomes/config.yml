@@ -14,7 +14,8 @@
 
 max-homes:
   default: 3
-max-homes-msg: §4Ya has llegado a tu maximo de casas, para eliminar una usa /delhome (nombre)!
+max-homes-msg: §4Ya has llegado a tu maximo de casas, para eliminar una usa /delhome
+  (nombre)!
 tp-delay: 3
 tp-cooldown: 0
 tp-cancelOnMove: false

@@ -391,6 +391,21 @@ data-version: 2|2730
         ==: org.bukkit.inventory.ItemStack
         v: 2730
         type: CHICKEN_SPAWN_EGG
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: EMERALD_BLOCK
+        amount: 5
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: EMERALD
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2730
+        type: VILLAGER_SPAWN_EGG
 '13':
   uniqueId: 74b4eceb-da26-4d57-bd53-a62a46d9d08e
   name: Comida
