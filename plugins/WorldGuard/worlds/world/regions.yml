@@ -10,6 +10,476 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    ps-703x76y413z:
+        min: {x: -735, y: -32768, z: 381}
+        max: {x: -671, y: 32767, z: 445}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lJordixhito, greeting-action: §lEntrando a la zona
+                de §b§lJordixhito, greeting: §lEntrando a la zona de §b§lJordixhito,
+            tnt: deny, ps-home: -703.0 77.0 413.0, pvp: deny, ps-tax-autopayer: 71eb860e-0750-329d-bc68-b2254c47133c,
+            ghast-fireball: deny, ps-block-material: GOLD_ORE, farewell: §lSaliendo
+                de la zona de §b§lJordixhito}
+        owners:
+            unique-ids: [71eb860e-0750-329d-bc68-b2254c47133c]
+        type: cuboid
+        priority: 0
+    ps148x13y975z:
+        min: {x: 132, y: -32768, z: 959}
+        max: {x: 164, y: 32767, z: 991}
+        members:
+            unique-ids: [d6bbb455-4042-3e03-85e1-8b6baf30084d, 6cd64f49-c8c8-358e-ac83-70e653038840]
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lKarenVidal14, greeting-action: §lEntrando a la zona
+                de §b§lKarenVidal14, greeting: §lEntrando a la zona de §b§lKarenVidal14,
+            tnt: deny, ps-home: 148.0 14.0 975.0, pvp: deny, ps-tax-autopayer: d08cd6b6-cb53-374f-8d2a-85aa013284bc,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lKarenVidal14}
+        owners:
+            unique-ids: [d08cd6b6-cb53-374f-8d2a-85aa013284bc]
+        type: cuboid
+        priority: 0
+    ps-1034x18y620z:
+        min: {x: -1050, y: -32768, z: 604}
+        max: {x: -1018, y: 32767, z: 636}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lKarenVidal14, greeting-action: §lEntrando a la zona
+                de §b§lKarenVidal14, greeting: §lEntrando a la zona de §b§lKarenVidal14,
+            ps-home: -1034.0 19.0 620.0, pvp: deny, tnt: deny, ps-tax-autopayer: d08cd6b6-cb53-374f-8d2a-85aa013284bc,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lKarenVidal14}
+        owners:
+            unique-ids: [d08cd6b6-cb53-374f-8d2a-85aa013284bc]
+        type: cuboid
+        priority: 0
+    spawn-c:
+        min: {x: -30, y: 36, z: -30}
+        max: {x: 30, y: 134, z: 30}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
+    ps452x62y354z:
+        min: {x: 388, y: -32768, z: 290}
+        max: {x: 516, y: 32767, z: 418}
+        members:
+            unique-ids: [5873230a-1c7d-3fed-8e64-ab2829258e55]
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lJuan123, greeting-action: §lEntrando a la zona de
+                §b§lJuan123, greeting: §lEntrando a la zona de §b§lJuan123, tnt: deny,
+            ps-home: 452.0 63.0 354.0, pvp: deny, ps-tax-autopayer: 87f5f3c9-812b-3e00-8781-5744df710cb7,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§lJuan123}
+        owners:
+            unique-ids: [87f5f3c9-812b-3e00-8781-5744df710cb7]
+        type: cuboid
+        priority: 0
+    ps-357x64y-737z:
+        min: {x: -389, y: -32768, z: -769}
+        max: {x: -325, y: 32767, z: -705}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lsebas123, greeting-action: §lEntrando a la zona
+                de §b§lsebas123, greeting: §lEntrando a la zona de §b§lsebas123, tnt: deny,
+            ps-home: -357.0 65.0 -737.0, pvp: deny, ps-tax-autopayer: 1101cc2b-6d03-331e-aea4-a773543af076,
+            ghast-fireball: deny, ps-block-material: GOLD_ORE, farewell: §lSaliendo
+                de la zona de §b§lsebas123}
+        owners:
+            unique-ids: [1101cc2b-6d03-331e-aea4-a773543af076]
+        type: cuboid
+        priority: 0
+    ps4702x65y5610z:
+        min: {x: 4686, y: -32768, z: 5594}
+        max: {x: 4718, y: 32767, z: 5626}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lkutoGG, greeting-action: §lEntrando a la zona de
+                §b§lkutoGG, greeting: §lEntrando a la zona de §b§lkutoGG, tnt: deny,
+            ps-home: 4702.0 66.0 5610.0, pvp: deny, ps-tax-autopayer: 8fe1f14d-1b18-32bb-85f4-be3c171a79c3,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lkutoGG}
+        owners:
+            unique-ids: [8fe1f14d-1b18-32bb-85f4-be3c171a79c3]
+        type: cuboid
+        priority: 0
+    ps574x66y-784z:
+        min: {x: 558, y: -32768, z: -800}
+        max: {x: 590, y: 32767, z: -768}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lComache_2, greeting-action: §lEntrando a la zona
+                de §b§lComache_2, greeting: §lEntrando a la zona de §b§lComache_2,
+            tnt: deny, ps-home: 574.0 67.0 -784.0, pvp: deny, ps-tax-autopayer: 63aa4363-2d24-32c4-b662-c89be094b66a,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lComache_2}
+        owners:
+            unique-ids: [63aa4363-2d24-32c4-b662-c89be094b66a]
+        type: cuboid
+        priority: 0
+    puente2:
+        min: {x: -78, y: 62, z: -2}
+        max: {x: -31, y: 64, z: 2}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
+    ps-665x65y-294z:
+        min: {x: -681, y: -32768, z: -310}
+        max: {x: -649, y: 32767, z: -278}
+        members:
+            unique-ids: [6ab1a517-8a7b-37d9-bc67-70912fd83e48]
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lAerisWalker, greeting-action: §lEntrando a la zona
+                de §b§lAerisWalker, greeting: §lEntrando a la zona de §b§lAerisWalker,
+            tnt: deny, ps-home: -665.0 66.0 -294.0, pvp: deny, ps-tax-autopayer: 708a8ec7-cb12-3946-b6b2-0c314fb8ac10,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lAerisWalker}
+        owners:
+            unique-ids: [708a8ec7-cb12-3946-b6b2-0c314fb8ac10]
+        type: cuboid
+        priority: 0
+    puente1:
+        min: {x: -2, y: 62, z: 31}
+        max: {x: 2, y: 64, z: 88}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
+    ps4702x61y5480z:
+        min: {x: 4686, y: -32768, z: 5464}
+        max: {x: 4718, y: 32767, z: 5496}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lkutoGG, greeting-action: §lEntrando a la zona de
+                §b§lkutoGG, greeting: §lEntrando a la zona de §b§lkutoGG, tnt: deny,
+            ps-home: 4702.0 62.0 5480.0, pvp: deny, ps-tax-autopayer: 8fe1f14d-1b18-32bb-85f4-be3c171a79c3,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lkutoGG}
+        owners:
+            unique-ids: [8fe1f14d-1b18-32bb-85f4-be3c171a79c3]
+        type: cuboid
+        priority: 0
+    ps-484x66y-482z:
+        min: {x: -548, y: -32768, z: -546}
+        max: {x: -420, y: 32767, z: -418}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§ldhhfhf, greeting-action: §lEntrando a la zona de
+                §b§ldhhfhf, greeting: §lEntrando a la zona de §b§ldhhfhf, ps-home: -484.0
+                67.0 -482.0, pvp: deny, tnt: deny, ps-tax-autopayer: 5224803c-6c4a-3bd7-86ff-b534b063fa8b,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§ldhhfhf}
+        owners:
+            unique-ids: [5224803c-6c4a-3bd7-86ff-b534b063fa8b]
+        type: cuboid
+        priority: 0
+    ps1177x85y86z:
+        min: {x: 1161, y: -32768, z: 70}
+        max: {x: 1193, y: 32767, z: 102}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lpos12idon1, greeting-action: §lEntrando a la zona
+                de §b§lpos12idon1, greeting: §lEntrando a la zona de §b§lpos12idon1,
+            ps-home: 1177.0 86.0 86.0, pvp: deny, tnt: deny, ps-tax-autopayer: ecd609d3-10ce-31d1-bd28-149c14c36d5d,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lpos12idon1}
+        owners:
+            unique-ids: [ecd609d3-10ce-31d1-bd28-149c14c36d5d]
+        type: cuboid
+        priority: 0
+    ps4831x77y5610z:
+        min: {x: 4815, y: -32768, z: 5594}
+        max: {x: 4847, y: 32767, z: 5626}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lkutoGG, greeting-action: §lEntrando a la zona de
+                §b§lkutoGG, greeting: §lEntrando a la zona de §b§lkutoGG, tnt: deny,
+            ps-home: 4831.0 78.0 5610.0, pvp: deny, ps-tax-autopayer: 8fe1f14d-1b18-32bb-85f4-be3c171a79c3,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lkutoGG}
+        owners:
+            unique-ids: [8fe1f14d-1b18-32bb-85f4-be3c171a79c3]
+        type: cuboid
+        priority: 0
+    puente3:
+        min: {x: -2, y: 62, z: -98}
+        max: {x: 2, y: 64, z: -31}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
+    ps-484x69y-417z:
+        min: {x: -548, y: -32768, z: -481}
+        max: {x: -420, y: 32767, z: -353}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§ldhhfhf, greeting-action: §lEntrando a la zona de
+                §b§ldhhfhf, greeting: §lEntrando a la zona de §b§ldhhfhf, ps-home: -484.0
+                70.0 -417.0, pvp: deny, tnt: deny, ps-tax-autopayer: 5224803c-6c4a-3bd7-86ff-b534b063fa8b,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§ldhhfhf}
+        owners:
+            unique-ids: [5224803c-6c4a-3bd7-86ff-b534b063fa8b]
+        type: cuboid
+        priority: 0
+    ps787x66y816z:
+        min: {x: 755, y: -32768, z: 784}
+        max: {x: 819, y: 32767, z: 848}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§ltommylang12, greeting-action: §lEntrando a la zona
+                de §b§ltommylang12, greeting: §lEntrando a la zona de §b§ltommylang12,
+            tnt: deny, ps-home: 787.0 67.0 816.0, pvp: deny, ps-tax-autopayer: 905adf22-ccfb-3225-84b2-cc31f1cb2eb6,
+            ghast-fireball: deny, ps-block-material: GOLD_ORE, farewell: §lSaliendo
+                de la zona de §b§ltommylang12}
+        owners:
+            unique-ids: [905adf22-ccfb-3225-84b2-cc31f1cb2eb6]
+        type: cuboid
+        priority: 0
+    ps-484x70y-547z:
+        min: {x: -548, y: -32768, z: -611}
+        max: {x: -420, y: 32767, z: -483}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§ldhhfhf, greeting-action: §lEntrando a la zona de
+                §b§ldhhfhf, greeting: §lEntrando a la zona de §b§ldhhfhf, ps-home: -484.0
+                71.0 -547.0, pvp: deny, tnt: deny, ps-tax-autopayer: 5224803c-6c4a-3bd7-86ff-b534b063fa8b,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§ldhhfhf}
+        owners:
+            unique-ids: [5224803c-6c4a-3bd7-86ff-b534b063fa8b]
+        type: cuboid
+        priority: 0
+    ps-619x68y-265z:
+        min: {x: -635, y: -32768, z: -281}
+        max: {x: -603, y: 32767, z: -249}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lvicho, greeting-action: §lEntrando a la zona de
+                §b§lvicho, greeting: §lEntrando a la zona de §b§lvicho, tnt: deny,
+            ps-home: -619.0 69.0 -265.0, pvp: deny, ps-tax-autopayer: 3feea0a3-1137-398e-b224-9270e48de239,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lvicho}
+        owners:
+            unique-ids: [3feea0a3-1137-398e-b224-9270e48de239]
+        type: cuboid
+        priority: 0
+    ps-971x71y-495z:
+        min: {x: -987, y: -32768, z: -511}
+        max: {x: -955, y: 32767, z: -479}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lRogerDmgz, greeting-action: §lEntrando a la zona
+                de §b§lRogerDmgz, greeting: §lEntrando a la zona de §b§lRogerDmgz,
+            tnt: deny, ps-home: -971.0 72.0 -495.0, pvp: deny, ps-tax-autopayer: 95ec501c-4eef-38fe-8ed7-42a3a49f355f,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lRogerDmgz}
+        owners:
+            unique-ids: [95ec501c-4eef-38fe-8ed7-42a3a49f355f]
+        type: cuboid
+        priority: 0
+    test:
+        min: {x: -381, y: 81, z: 3}
+        max: {x: -377, y: 84, z: 9}
+        members: {}
+        flags:
+            greeting-title: |-
+                §9Spawn!
+                §6Bienvenido
+        owners: {}
+        type: cuboid
+        priority: 0
+    ps-357x61y2306z:
+        min: {x: -421, y: -32768, z: 2242}
+        max: {x: -293, y: 32767, z: 2370}
+        members:
+            unique-ids: [32a0d0ac-29b4-3090-8d2c-4603493beaee, c1413110-5962-3e71-9511-f96cf0acdf27,
+                45c62355-86d8-366f-ada0-6e7b7024fc9a, 8eba4258-f08d-382d-8652-f876d430469c]
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lAntonioJose777, greeting-action: §lEntrando a la
+                zona de §b§lAntonioJose777, greeting: §lEntrando a la zona de §b§lAntonioJose777,
+            tnt: deny, ps-home: -357.0 62.0 2306.0, pvp: deny, ps-tax-autopayer: 5a924844-3f60-39de-874b-e239e9771d8f,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§lAntonioJose777}
+        owners:
+            unique-ids: [5a924844-3f60-39de-874b-e239e9771d8f]
+        type: cuboid
+        priority: 0
+    ps72x94y550z:
+        min: {x: 8, y: -32768, z: 486}
+        max: {x: 136, y: 32767, z: 614}
+        members:
+            unique-ids: [8f0c5bd7-08f7-3334-ae5a-188bde14d18d]
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§ldbanegasl, greeting-action: §lEntrando a la zona
+                de §b§ldbanegasl, greeting: §lEntrando a la zona de §b§ldbanegasl,
+            tnt: deny, ps-home: 72.0 95.0 550.0, pvp: deny, ps-tax-autopayer: aa7df965-124a-3eeb-89fd-49e1c1fb4c64,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§ldbanegasl}
+        owners:
+            unique-ids: [aa7df965-124a-3eeb-89fd-49e1c1fb4c64]
+        type: cuboid
+        priority: 0
+    ps1129x69y117z:
+        min: {x: 1113, y: -32768, z: 101}
+        max: {x: 1145, y: 32767, z: 133}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lpos12idon1, greeting-action: §lEntrando a la zona
+                de §b§lpos12idon1, greeting: §lEntrando a la zona de §b§lpos12idon1,
+            ps-home: 1129.0 70.0 117.0, pvp: deny, tnt: deny, ps-tax-autopayer: ecd609d3-10ce-31d1-bd28-149c14c36d5d,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lpos12idon1}
+        owners:
+            unique-ids: [ecd609d3-10ce-31d1-bd28-149c14c36d5d]
+        type: cuboid
+        priority: 0
+    ps-4645x62y3830z:
+        min: {x: -4661, y: -32768, z: 3814}
+        max: {x: -4629, y: 32767, z: 3846}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lxAronTv, greeting-action: §lEntrando a la zona de
+                §b§lxAronTv, greeting: §lEntrando a la zona de §b§lxAronTv, tnt: deny,
+            ps-home: -4645.0 63.0 3830.0, pvp: deny, ps-tax-autopayer: c2dda8ed-0495-3065-9f3a-0eae7be56aa4,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lxAronTv}
+        owners:
+            unique-ids: [c2dda8ed-0495-3065-9f3a-0eae7be56aa4]
+        type: cuboid
+        priority: 0
+    ps-419x65y-482z:
+        min: {x: -483, y: -32768, z: -546}
+        max: {x: -355, y: 32767, z: -418}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§ldhhfhf, greeting-action: §lEntrando a la zona de
+                §b§ldhhfhf, greeting: §lEntrando a la zona de §b§ldhhfhf, ps-home: -419.0
+                66.0 -482.0, pvp: deny, tnt: deny, ps-tax-autopayer: 5224803c-6c4a-3bd7-86ff-b534b063fa8b,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§ldhhfhf}
+        owners:
+            unique-ids: [5224803c-6c4a-3bd7-86ff-b534b063fa8b]
+        type: cuboid
+        priority: 0
+    ps-668x67y-230z:
+        min: {x: -684, y: -32768, z: -246}
+        max: {x: -652, y: 32767, z: -214}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lSebasfack, greeting-action: §lEntrando a la zona
+                de §b§lSebasfack, greeting: §lEntrando a la zona de §b§lSebasfack,
+            tnt: deny, ps-home: -668.0 68.0 -230.0, pvp: deny, ps-tax-autopayer: 4f707190-9a97-347a-92a0-47d96b20290b,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lSebasfack}
+        owners:
+            unique-ids: [4f707190-9a97-347a-92a0-47d96b20290b]
+        type: cuboid
+        priority: 0
+    ps4643x8y5806z:
+        min: {x: 4627, y: -32768, z: 5790}
+        max: {x: 4659, y: 32767, z: 5822}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lkutoGG, greeting-action: §lEntrando a la zona de
+                §b§lkutoGG, greeting: §lEntrando a la zona de §b§lkutoGG, tnt: deny,
+            ps-home: 4643.0 9.0 5806.0, pvp: deny, ps-tax-autopayer: 8fe1f14d-1b18-32bb-85f4-be3c171a79c3,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lkutoGG}
+        owners:
+            unique-ids: [8fe1f14d-1b18-32bb-85f4-be3c171a79c3]
+        type: cuboid
+        priority: 0
+    ps2179x69y-2703z:
+        min: {x: 2115, y: -32768, z: -2767}
+        max: {x: 2243, y: 32767, z: -2639}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lChrisTQNew, greeting-action: §lEntrando a la zona
+                de §b§lChrisTQNew, greeting: §lEntrando a la zona de §b§lChrisTQNew,
+            tnt: deny, ps-home: 2179.0 70.0 -2703.0, pvp: deny, ps-tax-autopayer: 842d9019-f73c-37f5-b349-cf4e2a921a42,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§lChrisTQNew}
+        owners:
+            unique-ids: [842d9019-f73c-37f5-b349-cf4e2a921a42]
+        type: cuboid
+        priority: 0
+    ps-356x64y-737z:
+        min: {x: -420, y: -32768, z: -801}
+        max: {x: -292, y: 32767, z: -673}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lsebas123, greeting-action: §lEntrando a la zona
+                de §b§lsebas123, greeting: §lEntrando a la zona de §b§lsebas123, tnt: deny,
+            ps-home: -356.0 65.0 -737.0, pvp: deny, ps-tax-autopayer: 1101cc2b-6d03-331e-aea4-a773543af076,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§lsebas123}
+        owners:
+            unique-ids: [1101cc2b-6d03-331e-aea4-a773543af076]
+        type: cuboid
+        priority: 0
+    ps-928x56y-447z:
+        min: {x: -944, y: -32768, z: -463}
+        max: {x: -912, y: 32767, z: -431}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§ldel154, greeting-action: §lEntrando a la zona de
+                §b§ldel154, greeting: §lEntrando a la zona de §b§ldel154, tnt: deny,
+            ps-home: -928.0 57.0 -447.0, pvp: deny, ps-tax-autopayer: 2fe3d1f6-d3f6-3ac2-addb-cb7db1dad46b,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§ldel154}
+        owners:
+            unique-ids: [2fe3d1f6-d3f6-3ac2-addb-cb7db1dad46b]
+        type: cuboid
+        priority: 0
+    ps-937x74y2465z:
+        min: {x: -1001, y: -32768, z: 2401}
+        max: {x: -873, y: 32767, z: 2529}
+        members:
+            unique-ids: [5a924844-3f60-39de-874b-e239e9771d8f]
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lSkitzo, greeting-action: §lEntrando a la zona de
+                §b§lSkitzo, greeting: §lEntrando a la zona de §b§lSkitzo, tnt: deny,
+            ps-home: -937.0 75.0 2465.0, pvp: deny, ps-tax-autopayer: 880c4151-7280-38d7-a20f-6b6c0524f90c,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§lSkitzo}
+        owners:
+            unique-ids: [880c4151-7280-38d7-a20f-6b6c0524f90c]
+        type: cuboid
+        priority: 0
+    ps2179x69y-2832z:
+        min: {x: 2115, y: -32768, z: -2896}
+        max: {x: 2243, y: 32767, z: -2768}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lChrisTQNew, greeting-action: §lEntrando a la zona
+                de §b§lChrisTQNew, greeting: §lEntrando a la zona de §b§lChrisTQNew,
+            tnt: deny, ps-home: 2179.0 70.0 -2832.0, pvp: deny, ps-tax-autopayer: 842d9019-f73c-37f5-b349-cf4e2a921a42,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§lChrisTQNew}
+        owners:
+            unique-ids: [842d9019-f73c-37f5-b349-cf4e2a921a42]
+        type: cuboid
+        priority: 0
+    ps-1322x41y95z:
+        min: {x: -1386, y: -32768, z: 31}
+        max: {x: -1258, y: 32767, z: 159}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lbenjamyrs, greeting-action: §lEntrando a la zona
+                de §b§lbenjamyrs, greeting: §lEntrando a la zona de §b§lbenjamyrs,
+            tnt: deny, ps-home: -1322.0 42.0 95.0, pvp: deny, ps-tax-autopayer: c7aecddf-c64f-3f36-9773-0b926b7d9c10,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§lbenjamyrs}
+        owners:
+            unique-ids: [c7aecddf-c64f-3f36-9773-0b926b7d9c10]
+        type: cuboid
+        priority: 0
     waterdrop2:
         min: {x: 81, y: 55, z: -2}
         max: {x: 87, y: 55, z: 2}
@@ -26,27 +496,27 @@ regions:
         owners: {}
         type: cuboid
         priority: 0
+    ps323x62y353z:
+        min: {x: 259, y: -32768, z: 289}
+        max: {x: 387, y: 32767, z: 417}
+        members:
+            unique-ids: [87f5f3c9-812b-3e00-8781-5744df710cb7, 6cd64f49-c8c8-358e-ac83-70e653038840]
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lnicolasbarrera, greeting-action: §lEntrando a la
+                zona de §b§lnicolasbarrera, greeting: §lEntrando a la zona de §b§lnicolasbarrera,
+            tnt: deny, ps-home: 323.0 63.0 353.0, pvp: deny, ps-tax-autopayer: 5873230a-1c7d-3fed-8e64-ab2829258e55,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§lnicolasbarrera}
+        owners:
+            unique-ids: [5873230a-1c7d-3fed-8e64-ab2829258e55]
+        type: cuboid
+        priority: 0
     waterdrop:
         min: {x: 71, y: 56, z: -9}
         max: {x: 93, y: 62, z: 9}
         members: {}
         flags: {water-flow: allow}
         owners: {}
-        type: cuboid
-        priority: 0
-    ps323x62y353z:
-        min: {x: 259, y: -32768, z: 289}
-        max: {x: 387, y: 32767, z: 417}
-        members:
-            unique-ids: [87f5f3c9-812b-3e00-8781-5744df710cb7]
-        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
-                de la zona de §b§lnicolasbarrera, greeting-action: §lEntrando a la
-                zona de §b§lnicolasbarrera, greeting: §lEntrando a la zona de §b§lnicolasbarrera,
-            ps-home: 323.0 63.0 353.0, pvp: deny, tnt: deny, ps-tax-autopayer: 5873230a-1c7d-3fed-8e64-ab2829258e55,
-            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
-                de la zona de §b§lnicolasbarrera}
-        owners:
-            unique-ids: [5873230a-1c7d-3fed-8e64-ab2829258e55]
         type: cuboid
         priority: 0
     kutoland:
@@ -57,12 +527,48 @@ regions:
         owners: {}
         type: cuboid
         priority: 0
-    spawn-c:
-        min: {x: -30, y: 36, z: -30}
-        max: {x: 30, y: 134, z: 30}
+    ps-33x56y531z:
+        min: {x: -49, y: -32768, z: 515}
+        max: {x: -17, y: 32767, z: 547}
+        members:
+            unique-ids: [ecd609d3-10ce-31d1-bd28-149c14c36d5d]
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lKIDDRAFUSYT, greeting-action: §lEntrando a la zona
+                de §b§lKIDDRAFUSYT, greeting: §lEntrando a la zona de §b§lKIDDRAFUSYT,
+            tnt: deny, ps-home: -33.0 57.0 531.0, pvp: deny, ps-tax-autopayer: 0d006851-6aac-3059-b746-e5de3968f9c5,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lKIDDRAFUSYT}
+        owners:
+            unique-ids: [0d006851-6aac-3059-b746-e5de3968f9c5]
+        type: cuboid
+        priority: 0
+    ps-331x72y707z:
+        min: {x: -395, y: -32768, z: 643}
+        max: {x: -267, y: 32767, z: 771}
+        members:
+            unique-ids: [d08cd6b6-cb53-374f-8d2a-85aa013284bc]
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lByAlejoXx, greeting-action: §lEntrando a la zona
+                de §b§lByAlejoXx, greeting: §lEntrando a la zona de §b§lByAlejoXx,
+            tnt: deny, ps-home: -331.0 73.0 707.0, pvp: deny, ps-tax-autopayer: d6bbb455-4042-3e03-85e1-8b6baf30084d,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§lByAlejoXx}
+        owners:
+            unique-ids: [d6bbb455-4042-3e03-85e1-8b6baf30084d]
+        type: cuboid
+        priority: 0
+    ps-885x69y-225z:
+        min: {x: -949, y: -32768, z: -289}
+        max: {x: -821, y: 32767, z: -161}
         members: {}
-        flags: {}
-        owners: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lNorte, greeting-action: §lEntrando a la zona de
+                §b§lNorte, greeting: §lEntrando a la zona de §b§lNorte, tnt: deny,
+            ps-home: -885.0 70.0 -225.0, pvp: deny, ps-tax-autopayer: 42da9284-5e51-320c-b95f-9a7845f289a8,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§lNorte}
+        owners:
+            unique-ids: [42da9284-5e51-320c-b95f-9a7845f289a8]
         type: cuboid
         priority: 0
     cerdos:
@@ -73,101 +579,74 @@ regions:
         owners: {}
         type: cuboid
         priority: 0
-    ps452x62y354z:
-        min: {x: 388, y: -32768, z: 290}
-        max: {x: 516, y: 32767, z: 418}
-        members:
-            unique-ids: [5873230a-1c7d-3fed-8e64-ab2829258e55]
+    ps1193x85y-2421z:
+        min: {x: 1129, y: -32768, z: -2485}
+        max: {x: 1257, y: 32767, z: -2357}
+        members: {}
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
-                de la zona de §b§lJuan123, greeting-action: §lEntrando a la zona de
-                §b§lJuan123, greeting: §lEntrando a la zona de §b§lJuan123, ps-home: 452.0
-                63.0 354.0, pvp: deny, tnt: deny, ps-tax-autopayer: 87f5f3c9-812b-3e00-8781-5744df710cb7,
+                de la zona de §b§lnicolasnnp, greeting-action: §lEntrando a la zona
+                de §b§lnicolasnnp, greeting: §lEntrando a la zona de §b§lnicolasnnp,
+            tnt: deny, ps-home: 1193.0 86.0 -2421.0, pvp: deny, ps-tax-autopayer: 56659f91-fd7a-3be1-b1bc-cc4b01dec5ee,
             ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
-                de la zona de §b§lJuan123}
+                de la zona de §b§lnicolasnnp}
         owners:
-            unique-ids: [87f5f3c9-812b-3e00-8781-5744df710cb7]
+            unique-ids: [56659f91-fd7a-3be1-b1bc-cc4b01dec5ee]
         type: cuboid
         priority: 0
-    ps153x24y976z:
-        min: {x: 137, y: -32768, z: 960}
-        max: {x: 169, y: 32767, z: 992}
-        members:
-            unique-ids: [2ab5f682-e077-3af1-be26-12405e91d3aa]
+    ps365x62y1812z:
+        min: {x: 333, y: -32768, z: 1780}
+        max: {x: 397, y: 32767, z: 1844}
+        members: {}
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
-                de la zona de §b§lKarenVidal14, greeting-action: §lEntrando a la zona
-                de §b§lKarenVidal14, greeting: §lEntrando a la zona de §b§lKarenVidal14,
-            ps-home: 153.0 25.0 976.0, pvp: deny, tnt: deny, ps-tax-autopayer: d08cd6b6-cb53-374f-8d2a-85aa013284bc,
-            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
-                de la zona de §b§lKarenVidal14}
+                de la zona de §b§lbenjamyrs, greeting-action: §lEntrando a la zona
+                de §b§lbenjamyrs, greeting: §lEntrando a la zona de §b§lbenjamyrs,
+            tnt: deny, ps-home: 365.0 63.0 1812.0, pvp: deny, ps-tax-autopayer: c7aecddf-c64f-3f36-9773-0b926b7d9c10,
+            ghast-fireball: deny, ps-block-material: GOLD_ORE, farewell: §lSaliendo
+                de la zona de §b§lbenjamyrs}
         owners:
-            unique-ids: [d08cd6b6-cb53-374f-8d2a-85aa013284bc]
+            unique-ids: [c7aecddf-c64f-3f36-9773-0b926b7d9c10]
         type: cuboid
         priority: 0
-    ps4702x65y5610z:
-        min: {x: 4638, y: -32768, z: 5546}
-        max: {x: 4766, y: 32767, z: 5674}
+    ps70x95y400z:
+        min: {x: 6, y: -32768, z: 336}
+        max: {x: 134, y: 32767, z: 464}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§ldbanegasl, greeting-action: §lEntrando a la zona
+                de §b§ldbanegasl, greeting: §lEntrando a la zona de §b§ldbanegasl,
+            tnt: deny, ps-home: 70.0 96.0 400.0, pvp: deny, ps-tax-autopayer: aa7df965-124a-3eeb-89fd-49e1c1fb4c64,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§ldbanegasl}
+        owners:
+            unique-ids: [aa7df965-124a-3eeb-89fd-49e1c1fb4c64]
+        type: cuboid
+        priority: 0
+    ps4759x64y5549z:
+        min: {x: 4727, y: -32768, z: 5517}
+        max: {x: 4791, y: 32767, z: 5581}
         members: {}
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
                 de la zona de §b§lkutoGG, greeting-action: §lEntrando a la zona de
-                §b§lkutoGG, greeting: §lEntrando a la zona de §b§lkutoGG, ps-home: 4702.0
-                66.0 5610.0, pvp: deny, tnt: deny, ps-tax-autopayer: 8fe1f14d-1b18-32bb-85f4-be3c171a79c3,
-            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                §b§lkutoGG, greeting: §lEntrando a la zona de §b§lkutoGG, tnt: deny,
+            ps-home: 4759.0 65.0 5549.0, pvp: deny, ps-tax-autopayer: 8fe1f14d-1b18-32bb-85f4-be3c171a79c3,
+            ghast-fireball: deny, ps-block-material: GOLD_ORE, farewell: §lSaliendo
                 de la zona de §b§lkutoGG}
         owners:
             unique-ids: [8fe1f14d-1b18-32bb-85f4-be3c171a79c3]
         type: cuboid
         priority: 0
-    puente2:
-        min: {x: -78, y: 62, z: -2}
-        max: {x: -31, y: 64, z: 2}
-        members: {}
-        flags: {}
-        owners: {}
-        type: cuboid
-        priority: 0
-    puente1:
-        min: {x: -2, y: 62, z: 31}
-        max: {x: 2, y: 64, z: 88}
-        members: {}
-        flags: {}
-        owners: {}
-        type: cuboid
-        priority: 0
-    ps-371x62y-726z:
-        min: {x: -403, y: -32768, z: -758}
-        max: {x: -339, y: 32767, z: -694}
-        members:
-            unique-ids: [63aa4363-2d24-32c4-b662-c89be094b66a, 01f42525-3e1d-31dc-bd55-147abdb31290]
-        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
-                de la zona de §b§lsebas123, greeting-action: §lEntrando a la zona
-                de §b§lsebas123, greeting: §lEntrando a la zona de §b§lsebas123, ps-home: -371.0
-                63.0 -726.0, pvp: deny, tnt: deny, ps-tax-autopayer: 1101cc2b-6d03-331e-aea4-a773543af076,
-            ghast-fireball: deny, ps-block-material: GOLD_ORE, farewell: §lSaliendo
-                de la zona de §b§lsebas123}
-        owners:
-            unique-ids: [1101cc2b-6d03-331e-aea4-a773543af076]
-        type: cuboid
-        priority: 0
-    puente3:
-        min: {x: -2, y: 62, z: -98}
-        max: {x: 2, y: 64, z: -31}
-        members: {}
-        flags: {}
-        owners: {}
-        type: cuboid
-        priority: 0
-    ps787x66y816z:
-        min: {x: 755, y: -32768, z: 784}
-        max: {x: 819, y: 32767, z: 848}
+    ps2360x71y-1284z:
+        min: {x: 2296, y: -32768, z: -1348}
+        max: {x: 2424, y: 32767, z: -1220}
         members: {}
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
-                de la zona de §b§ltommylang12, greeting-action: §lEntrando a la zona
-                de §b§ltommylang12, greeting: §lEntrando a la zona de §b§ltommylang12,
-            ps-home: 787.0 67.0 816.0, pvp: deny, tnt: deny, ps-tax-autopayer: 905adf22-ccfb-3225-84b2-cc31f1cb2eb6,
-            ghast-fireball: deny, ps-block-material: GOLD_ORE, farewell: §lSaliendo
-                de la zona de §b§ltommylang12}
+                de la zona de §b§lnicolasnnp, greeting-action: §lEntrando a la zona
+                de §b§lnicolasnnp, greeting: §lEntrando a la zona de §b§lnicolasnnp,
+            tnt: deny, ps-home: 2360.0 72.0 -1284.0, pvp: deny, ps-tax-autopayer: 56659f91-fd7a-3be1-b1bc-cc4b01dec5ee,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§lnicolasnnp}
         owners:
-            unique-ids: [905adf22-ccfb-3225-84b2-cc31f1cb2eb6]
+            unique-ids: [56659f91-fd7a-3be1-b1bc-cc4b01dec5ee]
         type: cuboid
         priority: 0
     kutokonkon:
@@ -179,15 +658,32 @@ regions:
             unique-ids: [9d06554a-0878-4175-a0b4-3b5d979a05d4]
         type: cuboid
         priority: 0
-    test:
-        min: {x: -381, y: 81, z: 3}
-        max: {x: -377, y: 84, z: 9}
+    ps1123x69y86z:
+        min: {x: 1059, y: -32768, z: 22}
+        max: {x: 1187, y: 32767, z: 150}
         members: {}
-        flags:
-            greeting-title: |-
-                §9Spawn!
-                §6Bienvenido
-        owners: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lpos12idon1, greeting-action: §lEntrando a la zona
+                de §b§lpos12idon1, greeting: §lEntrando a la zona de §b§lpos12idon1,
+            ps-home: 1123.0 70.0 86.0, pvp: deny, tnt: deny, ps-tax-autopayer: ecd609d3-10ce-31d1-bd28-149c14c36d5d,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§lpos12idon1}
+        owners:
+            unique-ids: [ecd609d3-10ce-31d1-bd28-149c14c36d5d]
+        type: cuboid
+        priority: 0
+    ps1369x63y97z:
+        min: {x: 1305, y: -32768, z: 33}
+        max: {x: 1433, y: 32767, z: 161}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lKIDDRAFUSYT, greeting-action: §lEntrando a la zona
+                de §b§lKIDDRAFUSYT, greeting: §lEntrando a la zona de §b§lKIDDRAFUSYT,
+            tnt: deny, ps-home: 1369.0 64.0 97.0, pvp: deny, ps-tax-autopayer: 0d006851-6aac-3059-b746-e5de3968f9c5,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§lKIDDRAFUSYT}
+        owners:
+            unique-ids: [0d006851-6aac-3059-b746-e5de3968f9c5]
         type: cuboid
         priority: 0
     pixelart:
@@ -198,48 +694,18 @@ regions:
         owners: {}
         type: cuboid
         priority: 0
-    ps-407x62y-732z:
-        min: {x: -471, y: -32768, z: -796}
-        max: {x: -343, y: 32767, z: -668}
-        members:
-            unique-ids: [63aa4363-2d24-32c4-b662-c89be094b66a, 01f42525-3e1d-31dc-bd55-147abdb31290]
-        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
-                de la zona de §b§lsebas123, greeting-action: §lEntrando a la zona
-                de §b§lsebas123, greeting: §lEntrando a la zona de §b§lsebas123, ps-home: -407.0
-                63.0 -732.0, pvp: deny, tnt: deny, ps-tax-autopayer: 1101cc2b-6d03-331e-aea4-a773543af076,
-            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
-                de la zona de §b§lsebas123}
-        owners:
-            unique-ids: [1101cc2b-6d03-331e-aea4-a773543af076]
-        type: cuboid
-        priority: 0
     ps-808x63y2521z:
         min: {x: -872, y: -32768, z: 2457}
         max: {x: -744, y: 32767, z: 2585}
         members: {}
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
                 de la zona de §b§lSkitzo, greeting-action: §lEntrando a la zona de
-                §b§lSkitzo, greeting: §lEntrando a la zona de §b§lSkitzo, ps-home: -808.0
-                64.0 2521.0, pvp: deny, tnt: deny, ps-tax-autopayer: 880c4151-7280-38d7-a20f-6b6c0524f90c,
+                §b§lSkitzo, greeting: §lEntrando a la zona de §b§lSkitzo, tnt: deny,
+            ps-home: -808.0 64.0 2521.0, pvp: deny, ps-tax-autopayer: 880c4151-7280-38d7-a20f-6b6c0524f90c,
             ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
                 de la zona de §b§lSkitzo}
         owners:
             unique-ids: [880c4151-7280-38d7-a20f-6b6c0524f90c]
-        type: cuboid
-        priority: 0
-    ps-357x61y2306z:
-        min: {x: -421, y: -32768, z: 2242}
-        max: {x: -293, y: 32767, z: 2370}
-        members:
-            unique-ids: [5a924844-3f60-39de-874b-e239e9771d8f, 45c62355-86d8-366f-ada0-6e7b7024fc9a]
-        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
-                de la zona de §b§lElPerroBueno, greeting-action: §lEntrando a la zona
-                de §b§lElPerroBueno, greeting: §lEntrando a la zona de §b§lElPerroBueno,
-            ps-home: -357.0 62.0 2306.0, pvp: deny, tnt: deny, ps-tax-autopayer: 32a0d0ac-29b4-3090-8d2c-4603493beaee,
-            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
-                de la zona de §b§lElPerroBueno}
-        owners:
-            unique-ids: [32a0d0ac-29b4-3090-8d2c-4603493beaee]
         type: cuboid
         priority: 0
     ps772x62y727z:
@@ -249,25 +715,25 @@ regions:
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
                 de la zona de §b§ltommylang12, greeting-action: §lEntrando a la zona
                 de §b§ltommylang12, greeting: §lEntrando a la zona de §b§ltommylang12,
-            ps-home: 772.0 63.0 727.0, pvp: deny, tnt: deny, ps-tax-autopayer: 905adf22-ccfb-3225-84b2-cc31f1cb2eb6,
+            tnt: deny, ps-home: 772.0 63.0 727.0, pvp: deny, ps-tax-autopayer: 905adf22-ccfb-3225-84b2-cc31f1cb2eb6,
             ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
                 de la zona de §b§ltommylang12}
         owners:
             unique-ids: [905adf22-ccfb-3225-84b2-cc31f1cb2eb6]
         type: cuboid
         priority: 0
-    ps-4645x62y3830z:
-        min: {x: -4661, y: -32768, z: 3814}
-        max: {x: -4629, y: 32767, z: 3846}
+    ps-549x61y-481z:
+        min: {x: -613, y: -32768, z: -545}
+        max: {x: -485, y: 32767, z: -417}
         members: {}
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
-                de la zona de §b§lxAronTv, greeting-action: §lEntrando a la zona de
-                §b§lxAronTv, greeting: §lEntrando a la zona de §b§lxAronTv, ps-home: -4645.0
-                63.0 3830.0, pvp: deny, tnt: deny, ps-tax-autopayer: c2dda8ed-0495-3065-9f3a-0eae7be56aa4,
-            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
-                de la zona de §b§lxAronTv}
+                de la zona de §b§ldhhfhf, greeting-action: §lEntrando a la zona de
+                §b§ldhhfhf, greeting: §lEntrando a la zona de §b§ldhhfhf, ps-home: -549.0
+                62.0 -481.0, pvp: deny, tnt: deny, ps-tax-autopayer: 5224803c-6c4a-3bd7-86ff-b534b063fa8b,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§ldhhfhf}
         owners:
-            unique-ids: [c2dda8ed-0495-3065-9f3a-0eae7be56aa4]
+            unique-ids: [5224803c-6c4a-3bd7-86ff-b534b063fa8b]
         type: cuboid
         priority: 0
     ps-428x61y-770z:
@@ -278,69 +744,100 @@ regions:
                 01f42525-3e1d-31dc-bd55-147abdb31290]
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
                 de la zona de §b§lsebas123, greeting-action: §lEntrando a la zona
-                de §b§lsebas123, greeting: §lEntrando a la zona de §b§lsebas123, ps-home: -428.0
-                62.0 -770.0, pvp: deny, tnt: deny, ps-tax-autopayer: 1101cc2b-6d03-331e-aea4-a773543af076,
+                de §b§lsebas123, greeting: §lEntrando a la zona de §b§lsebas123, tnt: deny,
+            ps-home: -428.0 62.0 -770.0, pvp: deny, ps-tax-autopayer: 1101cc2b-6d03-331e-aea4-a773543af076,
             ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
                 de la zona de §b§lsebas123}
         owners:
             unique-ids: [1101cc2b-6d03-331e-aea4-a773543af076]
         type: cuboid
         priority: 0
-    ps68x93y563z:
-        min: {x: 4, y: -32768, z: 499}
-        max: {x: 132, y: 32767, z: 627}
-        members: {}
+    ps-485x62y2306z:
+        min: {x: -549, y: -32768, z: 2242}
+        max: {x: -421, y: 32767, z: 2370}
+        members:
+            unique-ids: [45c62355-86d8-366f-ada0-6e7b7024fc9a]
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
-                de la zona de §b§ldbanegasl, greeting-action: §lEntrando a la zona
-                de §b§ldbanegasl, greeting: §lEntrando a la zona de §b§ldbanegasl,
-            ps-home: 68.0 94.0 563.0, pvp: deny, tnt: deny, ps-tax-autopayer: aa7df965-124a-3eeb-89fd-49e1c1fb4c64,
+                de la zona de §b§lAntonioJose777, greeting-action: §lEntrando a la
+                zona de §b§lAntonioJose777, greeting: §lEntrando a la zona de §b§lAntonioJose777,
+            tnt: deny, ps-home: -485.0 63.0 2306.0, pvp: deny, ps-tax-autopayer: 5a924844-3f60-39de-874b-e239e9771d8f,
             ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
-                de la zona de §b§ldbanegasl}
+                de la zona de §b§lAntonioJose777}
         owners:
-            unique-ids: [aa7df965-124a-3eeb-89fd-49e1c1fb4c64]
+            unique-ids: [5a924844-3f60-39de-874b-e239e9771d8f]
         type: cuboid
         priority: 0
-    ps2179x69y-2703z:
-        min: {x: 2115, y: -32768, z: -2767}
-        max: {x: 2243, y: 32767, z: -2639}
+    ps-698x67y-314z:
+        min: {x: -714, y: -32768, z: -330}
+        max: {x: -682, y: 32767, z: -298}
         members: {}
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
-                de la zona de §b§lChrisTQNew, greeting-action: §lEntrando a la zona
-                de §b§lChrisTQNew, greeting: §lEntrando a la zona de §b§lChrisTQNew,
-            ps-home: 2179.0 70.0 -2703.0, pvp: deny, tnt: deny, ps-tax-autopayer: 842d9019-f73c-37f5-b349-cf4e2a921a42,
-            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
-                de la zona de §b§lChrisTQNew}
+                de la zona de §b§lPETER22X, greeting-action: §lEntrando a la zona
+                de §b§lPETER22X, greeting: §lEntrando a la zona de §b§lPETER22X, tnt: deny,
+            ps-home: -698.0 68.0 -314.0, pvp: deny, ps-tax-autopayer: ed6fde4a-5a6f-3ec7-8bd7-f47456edf8dd,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lPETER22X}
         owners:
-            unique-ids: [842d9019-f73c-37f5-b349-cf4e2a921a42]
+            unique-ids: [ed6fde4a-5a6f-3ec7-8bd7-f47456edf8dd]
+        type: cuboid
+        priority: 0
+    ps4831x82y5481z:
+        min: {x: 4815, y: -32768, z: 5465}
+        max: {x: 4847, y: 32767, z: 5497}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lkutoGG, greeting-action: §lEntrando a la zona de
+                §b§lkutoGG, greeting: §lEntrando a la zona de §b§lkutoGG, tnt: deny,
+            ps-home: 4831.0 83.0 5481.0, pvp: deny, ps-tax-autopayer: 8fe1f14d-1b18-32bb-85f4-be3c171a79c3,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliendo
+                de la zona de §b§lkutoGG}
+        owners:
+            unique-ids: [8fe1f14d-1b18-32bb-85f4-be3c171a79c3]
         type: cuboid
         priority: 0
     ps-202x65y707z:
         min: {x: -266, y: -32768, z: 643}
         max: {x: -138, y: 32767, z: 771}
         members:
-            unique-ids: [2ab5f682-e077-3af1-be26-12405e91d3aa]
+            unique-ids: [2ab5f682-e077-3af1-be26-12405e91d3aa, 11ee8ce6-97e8-34eb-b770-61840ea6c454,
+                d6bbb455-4042-3e03-85e1-8b6baf30084d, 6cd64f49-c8c8-358e-ac83-70e653038840,
+                d58ca766-3876-3956-997f-480c5ec29357]
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
                 de la zona de §b§lKarenVidal14, greeting-action: §lEntrando a la zona
                 de §b§lKarenVidal14, greeting: §lEntrando a la zona de §b§lKarenVidal14,
-            ps-home: -202.0 66.0 707.0, pvp: deny, tnt: deny, ps-tax-autopayer: d08cd6b6-cb53-374f-8d2a-85aa013284bc,
+            tnt: deny, ps-home: -202.0 66.0 707.0, pvp: deny, ps-tax-autopayer: d08cd6b6-cb53-374f-8d2a-85aa013284bc,
             ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
                 de la zona de §b§lKarenVidal14}
         owners:
             unique-ids: [d08cd6b6-cb53-374f-8d2a-85aa013284bc]
         type: cuboid
         priority: 0
-    ps2355x71y-1278z:
-        min: {x: 2291, y: -32768, z: -1342}
-        max: {x: 2419, y: 32767, z: -1214}
+    ps-833x73y-420z:
+        min: {x: -897, y: -32768, z: -484}
+        max: {x: -769, y: 32767, z: -356}
         members: {}
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
-                de la zona de §b§lnicolasnnp, greeting-action: §lEntrando a la zona
-                de §b§lnicolasnnp, greeting: §lEntrando a la zona de §b§lnicolasnnp,
-            ps-home: 2355.0 72.0 -1278.0, pvp: deny, tnt: deny, ps-tax-autopayer: 56659f91-fd7a-3be1-b1bc-cc4b01dec5ee,
+                de la zona de §b§lMetalrockeando, greeting-action: §lEntrando a la
+                zona de §b§lMetalrockeando, greeting: §lEntrando a la zona de §b§lMetalrockeando,
+            tnt: deny, ps-home: -833.0 74.0 -420.0, pvp: deny, ps-tax-autopayer: e25c664b-157c-309c-bd22-a7aeaa17936e,
             ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
-                de la zona de §b§lnicolasnnp}
+                de la zona de §b§lMetalrockeando}
         owners:
-            unique-ids: [56659f91-fd7a-3be1-b1bc-cc4b01dec5ee]
+            unique-ids: [e25c664b-157c-309c-bd22-a7aeaa17936e]
+        type: cuboid
+        priority: 0
+    ps6668512x70y6667623z:
+        min: {x: 6668448, y: -32768, z: 6667559}
+        max: {x: 6668576, y: 32767, z: 6667687}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
+                de la zona de §b§lkutoGG, greeting-action: §lEntrando a la zona de
+                §b§lkutoGG, greeting: §lEntrando a la zona de §b§lkutoGG, tnt: deny,
+            ps-home: 6668512.0 71.0 6667623.0, pvp: deny, ps-tax-autopayer: 8fe1f14d-1b18-32bb-85f4-be3c171a79c3,
+            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
+                de la zona de §b§lkutoGG}
+        owners:
+            unique-ids: [8fe1f14d-1b18-32bb-85f4-be3c171a79c3]
         type: cuboid
         priority: 0
     spawn-wd:
@@ -351,35 +848,6 @@ regions:
         owners: {}
         type: cuboid
         priority: 0
-    ps-937x74y2465z:
-        min: {x: -1001, y: -32768, z: 2401}
-        max: {x: -873, y: 32767, z: 2529}
-        members:
-            unique-ids: [5a924844-3f60-39de-874b-e239e9771d8f]
-        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
-                de la zona de §b§lSkitzo, greeting-action: §lEntrando a la zona de
-                §b§lSkitzo, greeting: §lEntrando a la zona de §b§lSkitzo, ps-home: -937.0
-                75.0 2465.0, pvp: deny, tnt: deny, ps-tax-autopayer: 880c4151-7280-38d7-a20f-6b6c0524f90c,
-            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
-                de la zona de §b§lSkitzo}
-        owners:
-            unique-ids: [880c4151-7280-38d7-a20f-6b6c0524f90c]
-        type: cuboid
-        priority: 0
-    ps2179x69y-2832z:
-        min: {x: 2115, y: -32768, z: -2896}
-        max: {x: 2243, y: 32767, z: -2768}
-        members: {}
-        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
-                de la zona de §b§lChrisTQNew, greeting-action: §lEntrando a la zona
-                de §b§lChrisTQNew, greeting: §lEntrando a la zona de §b§lChrisTQNew,
-            ps-home: 2179.0 70.0 -2832.0, pvp: deny, tnt: deny, ps-tax-autopayer: 842d9019-f73c-37f5-b349-cf4e2a921a42,
-            ghast-fireball: deny, ps-block-material: DIAMOND_ORE, farewell: §lSaliendo
-                de la zona de §b§lChrisTQNew}
-        owners:
-            unique-ids: [842d9019-f73c-37f5-b349-cf4e2a921a42]
-        type: cuboid
-        priority: 0
     ps1398x68y-403z:
         min: {x: 1366, y: -32768, z: -435}
         max: {x: 1430, y: 32767, z: -371}
@@ -388,7 +856,7 @@ regions:
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliendo
                 de la zona de §b§lWalter_ec, greeting-action: §lEntrando a la zona
                 de §b§lWalter_ec, greeting: §lEntrando a la zona de §b§lWalter_ec,
-            ps-home: 1398.0 69.0 -403.0, pvp: deny, tnt: deny, ps-tax-autopayer: 146d17cd-a513-36f4-8bf4-601421e7b9dd,
+            tnt: deny, ps-home: 1398.0 69.0 -403.0, pvp: deny, ps-tax-autopayer: 146d17cd-a513-36f4-8bf4-601421e7b9dd,
             ghast-fireball: deny, ps-block-material: GOLD_ORE, farewell: §lSaliendo
                 de la zona de §b§lWalter_ec}
         owners:

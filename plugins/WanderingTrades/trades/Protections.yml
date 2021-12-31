@@ -1,0 +1,85 @@
+# WanderingTrades Example TradeConfig 1.7.0
+# 
+# Enable this tradeset config
+enabled: false
+chance: 0.0
+randomized: false
+randomAmount: '1'
+invincible: true
+customName: Protections
+disableHeroOfTheVillageGifts: false
+trades:
+  myfirsttrade:
+    maxUses: 999999999
+    experienceReward: true
+    ingredients:
+      '1':
+        customname: NONE
+        material: DIRT
+        amount: 1
+        itemStack:
+          v: 2865
+          type: DIAMOND_BLOCK
+    result:
+      customname: NONE
+      material: DIRT
+      amount: 1
+      itemStack:
+        v: 2865
+        type: EMERALD_ORE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"green","text":"<---"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"
+            Proteccion de 16x16 "},{"bold":false,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"green","text":"--->"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"(⌐■_■)ノ♪
+            Nadie va a tocar mis cosas!"}],"text":""}'
+          PublicBukkitValues:
+            protectionstones:ispsblock: 1b
+  Protection32:
+    maxUses: 1
+    experienceReward: true
+    result:
+      itemStack:
+        v: 2865
+        type: GOLD_ORE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"green","text":"<---"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"
+            Proteccion de 32x32 "},{"bold":false,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"green","text":"--->"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"(⌐■_■)ノ♪
+            Nadie va a tocar mis cosas!"}],"text":""}'
+          PublicBukkitValues:
+            protectionstones:ispsblock: 1b
+    ingredients:
+      '1':
+        itemStack:
+          v: 2865
+          type: DIAMOND_BLOCK
+          amount: 2
+  Protection64:
+    maxUses: 999999999
+    experienceReward: true
+    result:
+      itemStack:
+        v: 2865
+        type: DIAMOND_ORE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"green","text":"<---"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"
+            Proteccion de 64x64 "},{"bold":false,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"green","text":"--->"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"(⌐■_■)ノ♪
+            Nadie va a tocar mis cosas!"}],"text":""}'
+          PublicBukkitValues:
+            protectionstones:ispsblock: 1b
+    ingredients:
+      '1':
+        itemStack:
+          v: 2865
+          type: DIAMOND_BLOCK
+          amount: 3

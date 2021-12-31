@@ -1,0 +1,15 @@
+# SuperVanish v6.2.6 - Data file
+InvisiblePlayers:
+- 8f0c5bd7-08f7-3334-ae5a-188bde14d18d
+- aa7df965-124a-3eeb-89fd-49e1c1fb4c64
+- 8fe1f14d-1b18-32bb-85f4-be3c171a79c3
+PlayerData:
+  8fe1f14d-1b18-32bb-85f4-be3c171a79c3:
+    information:
+      name: kutoGG
+  aa7df965-124a-3eeb-89fd-49e1c1fb4c64:
+    information:
+      name: dbanegasl
+  8f0c5bd7-08f7-3334-ae5a-188bde14d18d:
+    information:
+      name: duotics

@@ -1,14 +1,12 @@
-#######################################################
-##                   Created By                      ##
-##                    Deckerz, ThunderGemios10       ##
-#######################################################
 announcement:
-    enabled: true
-    random: false
-    prefix: '&c[Annuncio] '
-    interval: 2000
-    check-for-updates: true
-    auto-update: false
-    messages:
-    - '&fEste dia &b&lSABADO 18 4PM Hora Ecuador &f&rvamos a Elegir las mejores zonas &4&lNavideñas&f&r. Apresurate a construir tu zona para que ganes los &6&lpremios&f&r!!!'
-    - '&fNo te olvides de seguir a kuto en: &9&lhttps://gamesworld.live/kuto'
+  enabled: true
+  random: false
+  prefix: '&c[Annuncio] '
+  interval: 400
+  check-for-updates: true
+  auto-update: false
+  messages:
+  - '&fNo te olvides de seguir a kuto en: &9&lhttps://gamesworld.live/kuto'
+  - '&fAldeanos Arreglados en el Spawn &5&lUwU '
+  - '&f&lEn el &4&lspawn &f&lvenden protecciones por bloques de diamante uwu '
+  - '&fCon el comando &4/skin &f&lpuedes cambiarte tu skin en el server '

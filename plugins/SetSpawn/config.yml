@@ -20,7 +20,7 @@ Teleport-Message:
     
 #The message that a player receives when he moves during a teleport cooldown.
 Cancel-On-Move:
-    Enabled: true
+    Enabled: False
     Enable-Message: true
     Message: '&0[&fSetSpawn&0]&r: &4TP cancelado!'
 
@@ -50,10 +50,10 @@ No-Spawn-Message: '&0[&fSetSpawn&0]&r: &cThere has no spawn been set yet!'
 Reload-Message: '&0[&fSetSpawn&0]&r: &2Config Reloaded!'
 
 #Teleport player to spawn on their join.
-On-Join-Spawn: true
+On-Join-Spawn: false
 #Telport player to the first join spawn on their first join on the server.
 On-First-Join-Spawn: true
 #Teleport player to the spawn on respawn.
 Respawn-At-Spawn: true
 #Ignore bedspawn on player respawn [teleport to spawn if the option above (Respawn-At-Spawn) is true].
-Override-Bedspawn-On-Respawn: true
+Override-Bedspawn-On-Respawn: False
